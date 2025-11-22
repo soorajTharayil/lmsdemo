@@ -2,6 +2,9 @@
 
 A comprehensive Learning Management System (LMS) built with CodeIgniter PHP framework, designed for creating, managing, and delivering online courses with support for multiple instructors, students, and advanced features.
 
+Live Demo Details
+Link : [https://lmsdemo.efeedor.com/] username : demo@efeedor.com password : Demo@123
+
 ## 📋 Table of Contents
 
 - [Features](#features)
