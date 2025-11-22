@@ -1,4 +1,4 @@
-# Academy LMS - Learning Management System
+# Efeedor LMS - Learning Management System
 
 A comprehensive Learning Management System (LMS) built with CodeIgniter PHP framework, designed for creating, managing, and delivering online courses with support for multiple instructors, students, and advanced features.
 
